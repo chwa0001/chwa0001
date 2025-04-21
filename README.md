@@ -89,7 +89,11 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
 - 🛠️ I enjoy exploring new software tools and building things just for fun.
 ---
 ## 📄 Resume
-[Download My Resume](https://github.com/chwa0001/chwa0001/blob/main/RESUME-CHWA%20CHOON%20XIANG.pdf)
+<p align="left">
+  <a href="https://github.com/chwa0001/chwa0001/raw/main/RESUME-CHWA%20CHOON%20XIANG.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" alt="Resume PDF">
+  </a>
+</p>
 ---
 
 ## 🌐 Connect with Me
