@@ -1,8 +1,11 @@
 <h1 align="center">Hello there, I'm Choon Xiang</h1>
 <h3 align="center">A passionate AI Software Engineer</h3>
 
-- 📫 Reach me at **chwacx@gmail.com**
+## 🧠 About Me
 
+I'm an AI Software Engineer with a background in intelligent systems and full-stack development. I build scalable AI and LLM-based applications using tools like Django, FastAPI, React, and Docker. Passionate about automation, data-driven insights, and applying emerging AI tech to solve real-world problems.
+
+- 📫 Reach me at **chwacx@gmail.com**
 ---
 
 ## 🧑‍💻 Tech Stack Breakdown
@@ -79,7 +82,16 @@
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" width="40" height="40"/>
 </div>
 
+## 🎯 Fun Facts
+
+- 🏸 I love racquet sports — especially badminton, basketball, and pickleball.
+- 💹 I’m into trading, investing, and financial planning.
+- 🛠️ I enjoy exploring new software tools and building things just for fun.
 ---
+## 📄 Resume
+[Download My Resume](https://github.com/chwa0001/chwa0001/blob/main/RESUME-CHWA%20CHOON%20XIANG.pdf)
+---
+
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/chwa0001" target="_blank">
