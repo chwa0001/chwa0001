@@ -10,8 +10,7 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
 
 ## 🧑‍💻 Tech Stack Breakdown
 
-### Programming Language
-
+### 💻 Programming Language
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
@@ -32,8 +31,6 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" title="Babel" width="40" height="40"/>
 </div>
 
----
-
 ### 🛠️ Backend
 <div>
   <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/fastapi.svg" title="Flask" width="40" height="40"/>
@@ -48,8 +45,6 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="40" height="40"/>
 </div>
 
----
-
 ### 🤖 AI & Machine Learning
 <div>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" width="40" height="40"/>
@@ -60,8 +55,6 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="40" height="40"/>
 </div>
 
----
-
 ### ⚙️ DevOps
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
@@ -70,8 +63,6 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="40" height="40"/>
 </div>
-
----
 
 ### 🔧 Others
 <div>
@@ -82,11 +73,12 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" width="40" height="40"/>
 </div>
 
+---
 ## 🎯 Fun Facts
-
 - 🏸 I love racquet sports — especially badminton, basketball, and pickleball.
 - 💹 I’m into trading, investing, and financial planning.
 - 🛠️ I enjoy exploring new software tools and building things just for fun.
+
 ---
 ## 📄 Resume
 <p align="left">
@@ -94,7 +86,6 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" alt="Resume PDF">
   </a>
 </p>
----
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -106,5 +97,3 @@ I'm an AI Software Engineer with a background in intelligent systems and full-st
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="24" height="24"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chwa0001&show_icons=true&locale=en&layout=compact" alt="chwa0001" /></p>
