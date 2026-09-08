@@ -1,110 +1,104 @@
-<h1 align="center">Hello there, I'm Choon Xiang</h1>
-<h3 align="center">A passionate AI Software Engineer</h3>
+# Hello there, I'm Choon Xiang 👋
+
+### Enterprise AI Engineer | GenAI Architect | Software Engineer
 
 ---
 
 ## 🧠 About Me
 
-I'm an AI Software Engineer with a background in intelligent systems and full-stack development. I build scalable AI and LLM-based applications using tools like Django, FastAPI, React, and Docker. Passionate about automation, data-driven insights, and applying emerging AI tech to solve real-world problems.
+I'm an Enterprise AI Engineer with 9+ years of experience designing and delivering production-grade software platforms, distributed systems, and AI solutions.
 
-📫 Reach me at **chwacx@gmail.com**
+My work spans enterprise GenAI platforms, Agentic AI, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), cloud-native architectures, and full-stack application development. I enjoy transforming complex business problems into scalable, secure, and maintainable technology solutions.
 
----
+Currently, I focus on building enterprise AI platforms that combine LLMs, agentic workflows, knowledge retrieval systems, and cloud-native engineering practices to enable intelligent automation at scale.
 
-## 🧑‍💻 Tech Stack Breakdown
-
-### 💻 Programming Languages
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" title="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/>
-</div>
-
-### 🖼️ Frontend
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="Webpack" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" title="Babel" width="40" height="40"/>
-</div>
-
-### 🛠️ Backend
-<div align="left">
-  <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/fastapi.svg" title="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="NGINX" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="40" height="40"/>
-</div>
-
-### 🤖 AI & Machine Learning
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="40" height="40"/>
-</div>
-
-### ⚙️ DevOps & Tools
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="OpenShift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="40" height="40"/>
-</div>
-
-### 🔧 Others
-<div align="left">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" width="40" height="40"/>
-</div>
+📍 Singapore  
+📫 **chwacx@gmail.com**
 
 ---
 
-## 🎯 Fun Facts
+## 🚀 What I'm Working On
 
-- 🏸 I love racquet sports — especially badminton, basketball, and pickleball.  
-- 💹 I’m into trading, investing, and financial planning.  
-- 🛠️ I enjoy exploring new software tools and building things just for fun.  
+- 🤖 Agentic AI and Multi-Agent Systems
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔌 Model Context Protocol (MCP)
+- ⚡ Enterprise AI Platforms
+- ☁️ Cloud-Native AI Architecture
+- 📚 Knowledge Graphs & Enterprise Search
+- 🔄 AI Observability and Governance
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Python • Java • TypeScript • JavaScript • SQL • PL/SQL • C# • Shell Script
+
+### 🎨 Frontend
+ReactJS • TypeScript • Vite • Material UI • AngularJS
+
+### ⚙️ Backend
+FastAPI • Django • Django REST Framework • Spring Boot • REST APIs • Microservices
+
+### 🤖 AI & Data
+LangChain • LangGraph • MCP • RAG • Hugging Face Transformers • vLLM • Ollama • PyTorch • TensorFlow • Scikit-Learn • LangSmith • Arize AI • Knowledge Graphs
+
+### ☁️ Cloud & DevOps
+AWS • OpenShift • Kubernetes • Docker • Jenkins • CI/CD • Git
+
+### 🗄️ Databases
+PostgreSQL • MongoDB • Oracle • MySQL • ElasticDB
+
+---
+
+## 💼 Career Journey
+
+### Enterprise GenAI Developer @ United Overseas Bank
+Designing and delivering enterprise AI platforms, agentic AI solutions, RAG systems, and multi-agent workflows within a regulated banking environment.
+
+### Data Scientist @ Scientific Infra & Private Assets
+Built AI-powered financial intelligence platforms leveraging LLMs, knowledge graphs, agentic workflows, and cloud-native architectures.
+
+### Senior Software Consultant @ znt Singapore
+Delivered enterprise software and integration solutions while completing my Master of Technology (Intelligent Systems) at NUS.
+
+### Senior Application Engineer @ ATS Applied Tech Systems
+Built industrial software platforms, MES/SCADA solutions, and remote operations systems for mission-critical environments.
+
+### Instrumentation & Control Engineer @ Winsys Technology
+Designed highly available monitoring and control systems focused on reliability, redundancy, and operational resilience.
+
+---
+
+## 🎓 Education
+
+**Master of Technology (Intelligent Systems)**  
+National University of Singapore (NUS)
+
+**Bachelor of Engineering (Mechanical Engineering, Mechatronics Specialisation)**  
+Nanyang Technological University (NTU)
+
+---
+
+## 🎯 Interests
+
+- 🤖 GenAI & Agentic Systems
+- 🏦 Financial Technology
+- 📈 Investing & Trading
+- 🏸 Badminton & Pickleball
+- ☁️ Cloud & Platform Engineering
+- 🚀 Emerging AI Technologies
 
 ---
 
 ## 📄 Resume
 
-<p align="left">
-  <a href="https://github.com/chwa0001/chwa0001/raw/main/RESUME-CHWA%20CHOON%20XIANG.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" alt="Resume PDF">
-  </a>
-</p>
+[View Resume](https://github.com/chwa0001/chwa0001/blob/49bcce81317807aec674d4b0f1bcda667222d48a/RESUME-CHWA%20CHOON%20XIANG.pdf)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/chwa0001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/chwacx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="24" height="24"/>
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/chwa0001) •
+[GitHub](https://github.com/chwa0001) •
+[LeetCode](https://www.leetcode.com/chwacx)
