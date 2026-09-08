@@ -85,7 +85,7 @@ Nanyang Technological University (NTU)
 - 🤖 GenAI & Agentic Systems
 - 🏦 Financial Technology
 - 📈 Investing & Trading
-- 🏸 Badminton & Pickleball
+- 🏸 Basketball & Pickleball
 - ☁️ Cloud & Platform Engineering
 - 🚀 Emerging AI Technologies
 
