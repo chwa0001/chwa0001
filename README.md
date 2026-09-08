@@ -93,7 +93,7 @@ Nanyang Technological University (NTU)
 
 ## 📄 Resume
 
-[View Resume](https://github.com/chwa0001/chwa0001/blob/49bcce81317807aec674d4b0f1bcda667222d48a/RESUME-CHWA%20CHOON%20XIANG.pdf)
+[View Resume](https://github.com/chwa0001/chwa0001/blob/main/RESUME-CHWA%20CHOON%20XIANG.pdf)
 
 ---
 
